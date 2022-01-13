@@ -2,7 +2,7 @@
   {
     "task": "Обрахувати поточні витрати",
     "responsible": "Сергій",
-    "completed": false
+    "completed": true
   }, 
   {
     "task": "Замовити нову партію товару",
@@ -22,6 +22,16 @@
   {
     "task": "Домовитись з посередником",
     "responsible": "Василь",
+    "completed": true
+  }, 
+  {
+    "task": "Зробити ще щось...",
+    "responsible": "Олексій",
+    "completed": false
+  }, 
+  {
+    "task": "Доробити ще щось...",
+    "responsible": "Степан",
     "completed": true
   } 
 ]
