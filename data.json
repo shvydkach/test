@@ -1,0 +1,27 @@
+[
+  {
+    "task": "Обрахувати поточні витрати",
+    "responsible": "Сергій",
+    "completed": false
+  }, 
+  {
+    "task": "Замовити нову партію товару",
+    "responsible": "Петро",
+    "completed": true
+  }, 
+  {
+    "task": "Зробити системний аналіз",
+    "responsible": "Марина",
+    "completed": true
+  }, 
+  {
+    "task": "Знайти потенційних покупців",
+    "responsible": "Яна",
+    "completed": false
+  }, 
+  {
+    "task": "Домовитись з посередником",
+    "responsible": "Василь",
+    "completed": true
+  } 
+]
